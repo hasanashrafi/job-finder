@@ -4,7 +4,7 @@ import Footer from './Footer'
 
 function Layout({ children }) {
     return (
-        <div className='font-Dana'>
+        <div className='font-Dana '>
             <Header />
 
             {children}
